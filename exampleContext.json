@@ -1,0 +1,22 @@
+{
+  "badge-info": null,
+  "badges": { "broadcaster": "1" },
+  "client-nonce": "xxxxx",
+  "color": null,
+  "display-name": "zhule",
+  "emotes": null,
+  "flags": null,
+  "id": "xxxx",
+  "mod": false,
+  "room-id": "xxx",
+  "subscriber": false,
+  "tmi-sent-ts": "xxx",
+  "turbo": false,
+  "user-id": "xxx",
+  "user-type": null,
+  "emotes-raw": null,
+  "badge-info-raw": null,
+  "badges-raw": "broadcaster/1",
+  "username": "zhule",
+  "message-type": "chat"
+}
