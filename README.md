@@ -1,4 +1,3 @@
-# marbles-for-lunch
-Marbles for lunch bot to take lunch suggestions for Aoedi
+# The repositories for this have moved to https://gitlab.com/aoedi-stream
 
-Push straight to master, why not?
+All active development should be done in gitlab
